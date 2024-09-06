@@ -74,6 +74,7 @@ body{
 .form__link{
     display: block;
     text-align: center;
+    background-color: white;
 }
 .form__group:nth-child(4){
     margin-bottom: 0;
